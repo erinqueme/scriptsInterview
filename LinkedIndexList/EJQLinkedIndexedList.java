@@ -11,8 +11,8 @@ import zhstructures.*;
  * Interface for a list accessed by element index (0 .. size-1). 
  * Represents a simplified ArrayList
  * 
- * @author  J. Andrew Whitford Holey and Imad M. Rahal
- * @version February 7, 2016
+ * @author  Erin Queme
+ * @version March 20, 2017
  * 
  * @param   ElementType the type of elements in this list
  */
